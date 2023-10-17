@@ -29,7 +29,7 @@ Complete a spelling test to prove you're sober and unblock your apps.
 
 <img height="400" src="https://github.com/matolah/SafeBooze/assets/26446518/96072ad5-a5a8-499a-b467-b577a864f24b"></img>
 
-Try spelling tongue twisters while drunk. And here's the catch: the difficulty increases the more phrases you spelled incorrectly!
+Try spelling tongue twisters while drunk. And here's the catch: the difficulty increases the more phrases you spell incorrectly!
 
 
 ## Contact
